@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nik_ChatBot/static/css/main.308445d3.css",
+    "main.js": "/Nik_ChatBot/static/js/main.7bc4ab0d.js",
+    "static/js/787.35cea4b2.chunk.js": "/Nik_ChatBot/static/js/787.35cea4b2.chunk.js",
+    "index.html": "/Nik_ChatBot/index.html",
+    "main.308445d3.css.map": "/Nik_ChatBot/static/css/main.308445d3.css.map",
+    "main.7bc4ab0d.js.map": "/Nik_ChatBot/static/js/main.7bc4ab0d.js.map",
+    "787.35cea4b2.chunk.js.map": "/Nik_ChatBot/static/js/787.35cea4b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308445d3.css",
+    "static/js/main.7bc4ab0d.js"
+  ]
+}
